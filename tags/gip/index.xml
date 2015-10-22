@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gip on GIP site</title>
-    <link>http://localhost:1313/tags/gip/</link>
+    <link>http://jens-vanhoof.github.io/GIP/tags/gip/</link>
     <description>Recent content in Gip on GIP site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 18:46:35 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gip/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jens-vanhoof.github.io/GIP/tags/gip/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GIP_Taak_07</title>
-      <link>http://localhost:1313/Artikels/Frans/FAQ/</link>
+      <link>http://jens-vanhoof.github.io/GIP/Artikels/Frans/FAQ/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/Artikels/Frans/FAQ/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/Artikels/Frans/FAQ/</guid>
       <description>
 
 &lt;h1 id=&#34;hugo-vs-wordpress:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Hugo VS Wordpress&lt;/h1&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title>GIP_Taak_07</title>
-      <link>http://localhost:1313/Artikels/Software/GIP_Taak_07/</link>
+      <link>http://jens-vanhoof.github.io/GIP/Artikels/Software/GIP_Taak_07/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/Artikels/Software/GIP_Taak_07/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/Artikels/Software/GIP_Taak_07/</guid>
       <description>
 
 &lt;h1 id=&#34;hugo-vs-wordpress:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;Hugo VS Wordpress&lt;/h1&gt;
